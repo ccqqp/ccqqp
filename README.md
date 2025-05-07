@@ -1,4 +1,5 @@
-![Yi Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccqqp&show_icons=true)
+![Yi Shi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccqqp&show_icons=true)
+
 <!--
 **ccqqp/ccqqp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
